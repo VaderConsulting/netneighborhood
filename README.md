@@ -25,7 +25,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/netneighborhood`.
+Working copy from my Historical Dev folder `VB/Old/netneighborhood`.
 Company names in project files: Twinsoft UK.
 Original author note in `readme.txt`: Andy Doran (andy.doran@dial.pipex.com).
 Third-party attribution: Twinsoft UK. See `THIRD_PARTY_NOTICES.md`.
